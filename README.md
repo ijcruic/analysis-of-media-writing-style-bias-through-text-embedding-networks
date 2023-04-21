@@ -1,2 +1,2 @@
-# analysis-of-media-writing-style-bias-through-text-embedding-networks
+# Analysis of Media Writing Style Bias through Text-Embedding Networks
 Code base for the paper "Analysis of Media Writing Style Bias through Text-Embedding Networks"
